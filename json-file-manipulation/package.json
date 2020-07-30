@@ -1,0 +1,9 @@
+{
+  "name": "file-maniputation",
+  "version": "1.0.0",
+  "description": "file manipulation as a sample within node js.",
+  "main": "index.js",
+  "author": "Marcelo Lara",
+  "license": "MIT",
+  "type": "module"
+}
