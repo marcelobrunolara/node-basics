@@ -22,7 +22,8 @@ function createGrade(grade){
         student : grade.student,
         subject : grade.subject,
         type : grade.type,
-        timestamp : new Date()
+        timestamp : new Date(),
+        value : grade.value
     };
 }
 
